@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+ /* Default Syles */
+ .usf-likes, .usf-shares, .usf-comments {
+     display:block;
+     font-weight:bold;
+     font-size:14px;
+ }
